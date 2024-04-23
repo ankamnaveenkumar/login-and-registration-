@@ -108,7 +108,7 @@
 
 <div class="container">
     <h2>Registration Form</h2>
-    <form action="add_file.php" method="post" id="email-form-2">
+    <form action="#" method="post" id="email-form-2">
         <div class="form-group">
             <div class="left-container">
                 <label for="name">Name</label>
