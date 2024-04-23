@@ -133,7 +133,7 @@
           <p>G-Star</p>
           <p>WELCOME BACK</p>
           <div class="input-area">
-            <form action="check.php" method="post" id="loginForm">
+            <form action="#" method="post" id="loginForm">
               <div class="form-inp">
                 <label for="email" class="label">Email</label>
                 <input type="email" name="email" placeholder="Email" required>
